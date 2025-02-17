@@ -28,6 +28,3 @@ SELECT *
 FROM tickets 
 WHERE passenger_name LIKE 'Irina%';
 
-gitadd.
-git commit -m "Ejercicios1.sql"
-git push
